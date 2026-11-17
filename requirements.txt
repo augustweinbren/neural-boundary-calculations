@@ -1,0 +1,9 @@
+# Packages needed to run dynamic_distance_from_boundary.ipynb
+# Install into the Jupyter kernel's environment with:  pip install -r requirements.txt
+numpy
+pandas
+matplotlib
+scipy
+scikit-image
+pillow
+ipython
