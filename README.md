@@ -75,9 +75,6 @@ The notebook finds samples by their file names. For each sample (for example `18
 - A sample name must not appear in two folders.
 - If a file has a different name, either rename it or add it by hand under `EXTRA_DATASETS` in the
   settings cell.
-- Don't use a **macOS Finder alias** to give a file a second name. The notebook can't read through
-  aliases. Use a symbolic link instead, made in the terminal, e.g.
-  `ln -s "FN 3-MaxIP.tif" "18951_FN 3_brightfield.tif"`.
 
 ## Running the analysis
 
